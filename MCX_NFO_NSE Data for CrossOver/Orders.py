@@ -5,3 +5,7 @@ signal = 'BUY'
 quantity = 1
 entry_price = 150.00
 
+
+
+
+
